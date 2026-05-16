@@ -1,0 +1,8 @@
+{
+  "name": "Remix: Weather Dashboard Agent",
+  "description": "Builds live weather dashboards on demand with real-time forecasts and historical data.",
+  "requestFramePermissions": [
+    "geolocation"
+  ],
+  "majorCapabilities": []
+}
